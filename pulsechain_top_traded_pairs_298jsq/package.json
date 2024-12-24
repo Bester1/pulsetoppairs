@@ -1,0 +1,19 @@
+{
+      "name": "pulsechain-top-pairs",
+      "private": true,
+      "version": "0.0.0",
+      "type": "module",
+      "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+      },
+      "dependencies": {
+        "bootstrap": "^5.3.3",
+        "chart.js": "^4.4.2",
+        "web3": "^4.4.0"
+      },
+      "devDependencies": {
+        "vite": "^5.1.4"
+      }
+    }

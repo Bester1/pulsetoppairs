@@ -1,0 +1,13 @@
+{
+      "pairs": [
+        { "pair": "PLSX/WPLS", "volume": 120000, "liquidity": 500000, "price": 0.00005 },
+        { "pair": "INC/WPLS", "volume": 90000, "liquidity": 400000, "price": 0.0002 },
+        { "pair": "ETH/WPLS", "volume": 70000, "liquidity": 300000, "price": 3000 },
+        { "pair": "USDC/WPLS", "volume": 50000, "liquidity": 200000, "price": 1 }
+      ],
+      "news": [
+        "PulseChain community update: New bridge coming soon!",
+        "PulseX DEX sees record trading volume this week.",
+        "Community AMA session scheduled for next Friday."
+      ]
+    }
